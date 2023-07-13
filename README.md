@@ -1,6 +1,6 @@
-# cicdapp for MLOps Project V7
+# cicdapp for MLOps Project V7.1
 
-## Project setup
+## Project setup  --Initial change 
 ```
 npm install
 ```
